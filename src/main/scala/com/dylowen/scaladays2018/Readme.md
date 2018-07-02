@@ -30,8 +30,7 @@ name(first, first)
 ``` 
 * https://docs.scala-lang.org/overviews/core/value-classes.html
 
-**Sample Code:**
-[ImplicitObjectType](./ImplicitObjectType.scala)
+**Sample Code:** [ImplicitObjectType](./ImplicitObjectType.scala)
 
 ## Mutating The Immutable
 [Schedule](https://na.scaladays.org/schedule/mutating-the-immutable--how-we-manage-change-in-large-scale-applications)
@@ -59,24 +58,20 @@ Understanding variance, bounds and inference
 * https://github.com/chrisphelps/type-parameter-power-up
 * https://docs.scala-lang.org/tour/variances.html
 
-**Sample Code:**
-[ContextBounds](./ContextBounds.scala)
+**Sample Code:** [ContextBounds](./ContextBounds.scala)
 
 ## Functional Programming With Effects
 [Schedule](https://na.scaladays.org/schedule/functional-programming-with-effects)
 
 Good intro to monads and cats
 
-**Sample Code:**
-[Monad](./monad)
+**Sample Code:** [Monad](./monad)
 
 ## sttp: Scala Http Client
 
 A very nice, simple http client, with a great interface
 
-**Sample Code:**
-
-[sttp](./HttpClientSttp.scala)
+**Sample Code:** [sttp](./HttpClientSttp.scala)
 
 ## Differentiable Functional Programming
 [Schedule](https://na.scaladays.org/schedule/differentiable-functional-programming)
