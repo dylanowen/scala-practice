@@ -68,8 +68,11 @@ Good intro to monads and cats
 **Sample Code:** [Monad](./monad)
 
 ## sttp: Scala Http Client
+[Schedule](https://na.scaladays.org/schedule/sttp-the-scala-http-client-that-you-always-wanted)
 
-A very nice, simple http client, with a great interface
+* https://github.com/softwaremill/sttp
+
+A very nice http client with a great interface
 
 **Sample Code:** [sttp](./HttpClientSttp.scala)
 
