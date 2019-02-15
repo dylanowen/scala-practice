@@ -79,4 +79,4 @@ A very nice http client with a great interface
 ## Differentiable Functional Programming
 [Schedule](https://na.scaladays.org/schedule/differentiable-functional-programming)
 
-https://github.com/noelwelsh/fdl
+* https://github.com/noelwelsh/fdl
